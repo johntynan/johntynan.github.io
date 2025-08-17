@@ -22,8 +22,8 @@ navigation:
     url: "/music/"
   - title: "Technology"
     url: "/tech/"
-  - title: "About"
-    url: "/about/"
+  # - title: "About"
+  #  url: "/about/"
   - title: "Contact"
     url: "/contact/"
 
