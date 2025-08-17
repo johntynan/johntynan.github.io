@@ -1,0 +1,23 @@
+# _config.yml
+
+# Site settings
+title: JohnTynan.github.io
+description: >-
+  Writer, Musician, Technologist
+
+# Custom variables
+helloworld: "Hello, World!"
+
+# Navigation links (static navigation)
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Include header and navigation in all pages using layouts
+# (Create _includes/header.html and _includes/navigation.html in your project)
