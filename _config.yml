@@ -1,9 +1,11 @@
 # _config.yml
+# theme: jekyll-theme-tactile
 
 # Site settings
-title: JohnTynan.github.io
+title: John Tynan
 description: >-
   Writer, Musician, Technologist
+
 
 # Custom variables
 helloworld: "Hello, World!"
