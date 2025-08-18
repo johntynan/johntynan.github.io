@@ -1,2 +1,2 @@
-   - [About](about.md)  
- - [Blog](blog.md)
+- [About](about.md)  
+- [Blog](blog.md)

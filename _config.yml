@@ -5,27 +5,9 @@ theme: jekyll-theme-tactile
 title: John Tynan
 description: >-
   Writer, Musician, Technologist
+author: John Tynan
 
 
 # Custom variables
 helloworld: "Hello, World!"
 
-# Navigation links (static navigation)
-navigation:
-  - title: "Home"
-    url: "/"
-#  - title: "Blog"
-#    url: "/blog/"
-  - title: "Writing"
-    url: "/writing/"
-  - title: "Music"
-    url: "/music/"
-  - title: "Technology"
-    url: "/tech/"
-  # - title: "About"
-  #  url: "/about/"
-  - title: "Contact"
-    url: "/contact/"
-
-# Include header and navigation in all pages using layouts
-# (Create _includes/header.html and _includes/navigation.html in your project)
