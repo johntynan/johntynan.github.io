@@ -1,2 +1,5 @@
 - [About](about.md)  
 - [Blog](blog.md)
+- [Music](music.md)
+- [Writing](writing.md)  
+- [Technology](technology.md)
