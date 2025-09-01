@@ -1,5 +1,3 @@
-I am excited to share with you the news that my book [Voice Lessons and other poems](https://www.saggingmeniscus.com/catalog/voicelessons/) has been published by [Sagging Meniscus Press](https://www.saggingmeniscus.com/) and is now available for purchase at Amazon in both [paperback](https://www.amazon.com/Voice-Lessons-John-Tynan/dp/0986144509/ref%3Dasap_bc?ie=UTF8) and Kindle editions.
+# Technology
 
-I am also grateful to the late [Royce M. Becker](https://www.saggingmeniscus.com/about/royce_becker/) for her stellar work on the book cover which is both endearing and perfectly matches the poems.
-
-A heartfelt thank you as well to [Jacob Smullyan](https://www.saggingmeniscus.com/authors/jacob_smullyan/) and to everyone who encouraged me along the way and to everyone who had a hand in shaping this beautiful book!
+Technology things here.
