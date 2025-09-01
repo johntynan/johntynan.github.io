@@ -1,1 +1,1 @@
-John Tynan received his MFA in creative writing from the University of Arizona in 1997. In addition to writing poems and stories, he also composes songs and plays the accordion, and makes his living as a web application developer.
+John Tynan received his MFA in creative writing from the University of Arizona in 1997. In addition to writing poems and stories, he also composes songs and plays the accordion, and makes his living as a web application developer. 
