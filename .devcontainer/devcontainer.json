@@ -1,4 +1,18 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {}
+"name": "Jekyll Blog Development",
+"build": {
+    "dockerfile": "Dockerfile"
+},
+"customizations": {
+    "vscode": {
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    }
+    },
+    "extensions": [
+    "streetsidesoftware.code-spell-checker"
+    ]
+},
+"postCreateCommand": "sh /root/post-boot.sh",
+"forwardPorts": [4000]
 }
