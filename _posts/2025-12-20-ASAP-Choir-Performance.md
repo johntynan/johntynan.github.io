@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Holiday Performance with the Armed Services Arts Partnership (ASAP) at Studio Pause"
 date: 2025-12-20b
 ---
